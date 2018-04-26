@@ -1,2 +1,3 @@
-# Brian Kernighian and Dennis Ritchie Book also known as K&R
+# Brian Kernighian and Dennis Ritchie Book
+
 My solutions for The C Programming Language book 
